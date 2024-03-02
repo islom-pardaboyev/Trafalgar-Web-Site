@@ -4,5 +4,5 @@
 
 <div>
     <p>Contact Me</p>
-    <a href="#https://t.me/IslomPardaboyev">Telegram</a>
+    <a href="#https://t.me/IslomPardaboyev" style="margin-top: 0px">Telegram</a>
 </div>
