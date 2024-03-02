@@ -4,3 +4,4 @@
 
 Contact Me
 - [Telegram](https://t.me/IslomPardaboyev)
+- [Call](+998999247787)
