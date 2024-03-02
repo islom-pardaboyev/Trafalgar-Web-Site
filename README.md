@@ -1,8 +1,6 @@
-# Trafalgar web Site (Clone)
+# Trafalgar Website (Clone)
 
-<img src="./screenshot.png">
+![Screenshot](./screenshot.png)
 
-<div>
-    <p>Contact Me</p>
-    <a href="#https://t.me/IslomPardaboyev" style="margin-top: 0px">Telegram</a>
-</div>
+Contact Me
+- [Telegram](https://t.me/IslomPardaboyev)
